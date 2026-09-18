@@ -51,5 +51,13 @@ hope-for-all-foundation/
 
 
 ## References
+
 - Hope for All Foundation. 2025. *Internal Community Reports*. Polokwane.
 - Non-Profit Directives South Africa. 2024. *Digital Guidelines for NPOs*. Pretoria: Government Printers.
+GitHub, 2026. Git and GitHub Documentation. Available at: https://docs.github.com [Accessed 18 September 2026].
+Google Maps, 2026. Embed a Map — Google Maps Platform. Available at: https://developers.google.com/maps/documentation/embed/get-started [Accessed 18 September 2026].
+Hope for All Foundation, 2025. Internal Community Reports. Polokwane: Hope for All Foundation.
+Non-Profit Directives South Africa, 2024. Digital Guidelines for NPOs. Pretoria: Government Printers.
+World Wide Web Consortium (W3C), 2023. CSS Snapshot 2023. W3C Working Group Note. Available at: https://www.w3.org/TR/css-2023/ [Accessed 18 September 2026].
+World Wide Web Consortium (W3C), 2023. HTML5: A Vocabulary and Associated APIs for HTML and XHTML. W3C Recommendation. Available at: https://www.w3.org/TR/html52/ [Accessed 18 September 2026].
+World Wide Web Consortium (W3C), 2023. Web Content Accessibility Guidelines (WCAG) 2.2. W3C Recommendation. Available at: https://www.w3.org/TR/WCAG22/ [Accessed 18 September 2026].
